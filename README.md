@@ -9,6 +9,7 @@ To learn Linux, in the most practical form.
 
 1. Get yourself a Linux Distro.
    * [Ubuntu](https://ubuntu.com/download/server)
+
      [Installation Guide](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview)
    * [Rocky Linux](https://docs.rockylinux.org/guides/virtualization/vbox-rocky/) 
 2. Coming Soon
