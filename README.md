@@ -10,6 +10,7 @@ To learn Linux, in the most practical form by climbing mountains/hills.
 ### Get yourself a Linux Distro.
    * [Ubuntu](https://ubuntu.com/download/server) | [Installation Guide](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview)
    * [Rocky Linux](https://docs.rockylinux.org/guides/virtualization/vbox-rocky/)
+   * [Arch Linux](https://wiki.archlinux.org/title/installation_guide)
 
 ### Select your ⛰️
 
